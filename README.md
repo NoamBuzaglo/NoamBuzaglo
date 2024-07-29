@@ -6,5 +6,3 @@
 **“The only way to do great work is to love what you do”** <br>
 I enjoy solving complex challenges through clean and well-architected systems, aiming to deliver reliable and efficient software.
 
-
-<img align="center" src="https://myreadme.vercel.app/api/embed/NoamBuzaglo?panels=userstatistics" alt="noambuzaglo" />
