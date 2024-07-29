@@ -7,4 +7,4 @@
 I enjoy solving complex challenges through clean and well-architected systems, aiming to deliver reliable and efficient software.
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=NoamBuzaglo&show_icons=true&locale=en" alt="noambuzaglo" />
+<img align="center" src="https://myreadme.vercel.app/api/embed/NoamBuzaglo?panels=userstatistics" alt="noambuzaglo" />
